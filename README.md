@@ -15,8 +15,6 @@ Young developer living in the UK. Interests include: networking, systems managem
 
 I run the [Mine9 Minecraft: Bedrock Edition server network][mine9-web]. Ask me about it on [discord][mine9-discord].
 
-We currently have one running server: anarchy. The only rule is don't break the server. And have fun, obviously.
-
 ### Contact & socials
 
 | [<img width="250" alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=p9zcdrs1ykzgd1evnphgetz4b&cover_image=true">](https://github.com/kittinan/spotify-github-profile) |
