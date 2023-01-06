@@ -1,3 +1,7 @@
+<img align="right" alt="Profile views" src="https://gpvc.arturio.dev/Weissnix4711">
+
+<br />
+
 <h1 align="center">Thomas J Aldrian || Weissnix4711</h1>
 
 Young developer living in the UK. Interests include: IoT, smart home, wireless / RF.
