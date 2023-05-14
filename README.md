@@ -17,6 +17,7 @@ Young developer living in the UK. Interests include: IoT, smart home, wireless /
   <a rel="me" href="https://fosstodon.org/@Weissnix4711">![Mastodon](https://img.shields.io/badge/dynamic/json?url=https://fosstodon.org/api/v1/accounts/109150569509501309&label=MASTODON&query=%24.followers_count&color=6364FF&suffix=%20FOLLOWERS&logo=mastodon&logoColor=858AFA&style=for-the-badge)</a>
   [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCDSdpQki6cgRV59QsMZBb9A?label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
   [![Matrix](https://img.shields.io/matrix/weissnix4711:matrix.org?color=black&label=MATRIX&logo=matrix&logoColor=black&style=for-the-badge)][matrix]
+  [![Ko-fi](https://img.shields.io/static/v1?label=Ko-fi&message=SUPPORT%20MY%20WORK&color=13C3FF&logo=kofi&logoColor=FF5E5B&style=for-the-badge)][kofi]
   
 </div>
 
@@ -40,3 +41,4 @@ Young developer living in the UK. Interests include: IoT, smart home, wireless /
 [github]: https://github.com/Weissnix4711
 [matrix]: https://matrix.to/#/#weissnix4711:matrix.org
 [github-repos]: https://github.com/Weissnix4711?tab=repositories
+[kofi]: https://ko-fi.com/thomasaldrian
