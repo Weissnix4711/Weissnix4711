@@ -4,11 +4,13 @@
 
 <h1 align="center">Thomas J Aldrian || Weissnix4711</h1>
 
-Young developer living in the UK. Interests include: IoT, smart home, wireless / RF.
+Student, currently living in the UK. Interests include: IoT, smart home, wireless / RF, PCB design.
 
 - 🔭 Currently working on: Trying to stay sane
 - 🌱 Currently (trying to) learn: rust
 - 😄 Pronouns: He/Him
+
+🇬🇧/🇩🇪
 
 <h2 align="center">Contact & socials</h3>
 
