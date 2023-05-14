@@ -14,9 +14,8 @@ Young developer living in the UK. Interests include: IoT, smart home, wireless /
 
 <div align="center">
 
-  <a rel="me" href="https://fosstodon.org/@Weissnix4711">![Mastodon](https://img.shields.io/badge/dynamic/json?color=6364FF&label=MASTODON&query=%24.followers_count&url=https%3A%2F%2Ffosstodon.org%2Fapi%2Fv1%2Faccounts%2F109150569509501309&logo=mastodon&style=for-the-badge)</a>
+  <a rel="me" href="https://fosstodon.org/@Weissnix4711">![Mastodon](https://img.shields.io/badge/dynamic/json?url=https://fosstodon.org/api/v1/accounts/109150569509501309&label=MASTODON&query=%24.followers_count&color=6364FF&suffix=%20FOLLOWERS&logo=mastodon&logoColor=858AFA&style=for-the-badge)</a>
   [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCDSdpQki6cgRV59QsMZBb9A?label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-  [![Twitter](https://img.shields.io/twitter/follow/Weissnix4711?color=1DA1F2&label=TWITTER&logo=twitter&logoColor=1DA1F2&style=for-the-badge)][twitter]
   [![Matrix](https://img.shields.io/matrix/weissnix4711:matrix.org?color=black&label=MATRIX&logo=matrix&logoColor=black&style=for-the-badge)][matrix]
   
 </div>
@@ -36,7 +35,7 @@ Young developer living in the UK. Interests include: IoT, smart home, wireless /
 
 </div>
 
-[twitter]: https://twitter.com/Weissnix4711
+[mastodon]: https://fosstodon.org/@Weissnix4711
 [youtube]: https://www.youtube.com/channel/UCDSdpQki6cgRV59QsMZBb9A
 [github]: https://github.com/Weissnix4711
 [matrix]: https://matrix.to/#/#weissnix4711:matrix.org
